@@ -1,0 +1,10 @@
+# .gitignore
+
+# Temp files
+*~
+
+# Hidden files
+.*
+
+# Except
+!.gitignore

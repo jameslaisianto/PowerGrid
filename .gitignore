@@ -1,0 +1,13 @@
+# PowerGrid project .gitignore
+
+# Temp files
+*~
+
+# Vagrant generated files
+.vagrant/
+
+# Hidden files
+.*
+
+# Except
+!.gitignore
